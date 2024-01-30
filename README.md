@@ -13,14 +13,14 @@ Start playing!
 - Keeps track of the current level and score.
 
 ## Game Instructions
-Press any key on your keyboard  to begin the game.
-Simon will blink the first signal (a color).
-Repeat the signal by clicking on the same color Simon showed you.
-Simon will duplicate the first signal and add one.
-Repeat these two signals by clicking on the same colors in the order Simon showed you.
-Continue playing as long as you can repeat each sequence correctly.
-Your score will increase by one point for each successful sequence.
-If you make a mistake, the game will end, and your final score will be displayed.
+-Press any key on your keyboard  to begin the game.
+-Simon will blink the first signal (a color).
+-Repeat the signal by clicking on the same color Simon showed you.
+-Simon will duplicate the first signal and add one.
+-Repeat these two signals by clicking on the same colors in the order Simon showed you.
+-Continue playing as long as you can repeat each sequence correctly.
+-Your score will increase by one point for each successful sequence.
+-If you make a mistake, the game will end, and your final score will be displayed.
 
 ## Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to open an issue or create a pull request. Let's make this Simon game even better together.
